@@ -1,9 +1,9 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Виталий Кочнев](https://up.htmlacademy.ru/javascript/24/user/1740773).
-* Наставник: [Виталий Комолаев](https://htmlacademy.ru/profile/id1274335).
+* Наставник: [Виталий Комолаев](https://htmlacademy.ru/profile/id1274335). 
 
----
+--- 
 
 _Не удаляйте и не изменяйте самовольно файлы и папки:_
 _`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.json`, `package.json`., `.github`_
